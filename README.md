@@ -2,3 +2,4 @@
  Bootcamp için oyun
 ''hello world'' 
 ''hello canım''
+takım adı vs
