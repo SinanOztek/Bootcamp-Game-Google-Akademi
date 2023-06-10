@@ -1,6 +1,11 @@
-# Bootcamp-Game-Google-Akademi
- Bootcamp için oyun
-''hello world'' 
-''hello canım''
-takım adı vs
-"deneme"
+# **Takım İsmi**
+
+Unity 71
+
+## Takım Elemanları
+- Aleyna Sena Durmaz: Scrum Master
+- Doğukan Tufan: Product Owner
+- Sinan Öztek: Developer
+- Ahmet Faruk Kesgin: Developer
+- Ayşin Can: Developer
+ 
