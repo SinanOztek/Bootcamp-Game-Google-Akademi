@@ -1,3 +1,4 @@
 # Bootcamp-Game-Google-Akademi
  Bootcamp için oyun
-''hello world''
+''hello world'' 
+''hello canım''
