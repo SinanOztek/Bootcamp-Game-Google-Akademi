@@ -17,7 +17,7 @@ Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerası
 
 # Sprint 1
 
-- **Sprint notları**: 
+- **Sprint notları**: User Story'ler ve tasklar product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
@@ -27,3 +27,12 @@ Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerası
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Secreenshot1](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/435c987f-2373-4a5a-a9ea-30e4299d96c4)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+- 
+
+---
+
+## Product Backlog URL
+
+[Unity Team 71 Miro Backlog Board](https://miro.com/app/board/uXjVMB7KEnY=/?share_link_id=545559702476)
