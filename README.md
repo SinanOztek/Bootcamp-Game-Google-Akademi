@@ -51,6 +51,7 @@ Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerası
 ![Ekran Görüntüsü (324)](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/1dc479c9-275f-4719-a49b-9379e5599e29)
 
 - **Ürün Durumu**: Ekran görüntüleri:
+
 ![ürün-durumu-gif](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/56518717-d70c-40f3-8cf6-ade0fc4d9d26)
 
 - **Sprint Review**: 
