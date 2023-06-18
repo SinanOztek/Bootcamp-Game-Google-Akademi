@@ -23,6 +23,6 @@ Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerası
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zaman ve verimlilik açısından daha iyi olacağı düşünüldüğünden, Discord ve Miro kullanılarak sesli ve görsel paylaşımlı toplantılar olarak yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
+- **Daily Scrum**: Daily Scrum toplantılarının zaman ve verimlilik açısından daha iyi olacağı düşünüldüğünden, Discord ve Miro kullanılarak sesli ve görsel paylaşımlı toplantılar olarak yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.[Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1bgASB4J620PAkgVM50E0bMO8tp1layfeP-CRlPfUT-E/edit)
 
 - **Sprint board update**: Sprint board screenshotları: 
