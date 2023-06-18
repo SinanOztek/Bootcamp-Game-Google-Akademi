@@ -2,15 +2,37 @@
 
 Unity 71
 
+# Ürün İle İlgili Bilgiler
+
 ## Takım Elemanları
 - Doğukan Tufan: Product Owner
 - Aleyna Sena Durmaz: Scrum Master
 - Sinan Öztek: Developer
 - Ahmet Faruk Kesgin: Developer
 - Ayşin Can: Developer
+
+## Ürün İsmi
+
+--Ködügey Mergen--
  
 ## Ürün Açıklaması
-Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerasını anlatıyor.
+Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerasını anlatır.
+
+## Ürün Özellikleri
+
+- Platform türünde bir macera oyunudur.
+
+## Hedef Kitle
+
+- Destanlara ilgili kişiler
+- Türk kültürüne ilgili kişiler
+- Tarihe ilgili kişiler
+- Mistik görsellere ilgili kişiler
+
+## Product Backlog URL
+
+[Unity Team 71 Miro Backlog Board](https://miro.com/app/board/uXjVM9w5jOM=/?share_link_id=59489808086)
+
 
 
 ---
@@ -29,10 +51,18 @@ Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerası
 ![Secreenshot1](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/435c987f-2373-4a5a-a9ea-30e4299d96c4)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- 
+![ürün-durumu-gif](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/56518717-d70c-40f3-8cf6-ade0fc4d9d26)
+
+- **Sprint Review**: 
+Alınan kararlar: Oyunun esinlenildiği destan senaryolaştırılmış ve levellere ayrılmıştır. Moodboard oluşturulmuş ve bunun üzerine tasarım kararları alınmıştır. Ana karakter için tasarım süreci devam ederken hareket mekaniği ve diğer kodlar yazılmıştır. Sprint Review katılımcıları: Aleyna Sena Durmaz
+
+- **Sprint Retrospective:**
+- Senaryo ve tasarım süreci üzerinde derin düşünülmüş ve güzel bir fikir ortaya çıkarılmıştır.
+- Sürecin devamında takvimin biraz daha verimli kullanılması hedeflenmiştir.
+
 
 ---
 
 ## Product Backlog URL
 
-[Unity Team 71 Miro Backlog Board](https://miro.com/app/board/uXjVMB7KEnY=/?share_link_id=545559702476)
+[Unity Team 71 Miro Backlog Board](https://miro.com/app/board/uXjVM9w5jOM=/?share_link_id=59489808086)
