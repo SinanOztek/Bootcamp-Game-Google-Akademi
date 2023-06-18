@@ -26,3 +26,4 @@ Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerası
 - **Daily Scrum**: Daily Scrum toplantılarının zaman ve verimlilik açısından daha iyi olacağı düşünüldüğünden, Discord ve Miro kullanılarak sesli ve görsel paylaşımlı toplantılar olarak yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.[Sprint 1 Daily Scrum Chats](https://docs.google.com/document/d/1bgASB4J620PAkgVM50E0bMO8tp1layfeP-CRlPfUT-E/edit)
 
 - **Sprint board update**: Sprint board screenshotları: 
+![Secreenshot1](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/435c987f-2373-4a5a-a9ea-30e4299d96c4)
