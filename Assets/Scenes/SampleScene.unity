@@ -270,7 +270,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _mainChar: {fileID: 619550232}
   _bird: {fileID: 701314620}
-  _human: {fileID: 0}
+  _human: {fileID: 1531865182}
   _bear: {fileID: 0}
   _wildPig: {fileID: 0}
 --- !u!1 &650403713
@@ -708,7 +708,7 @@ MonoBehaviour:
   Ground:
     serializedVersion: 2
     m_Bits: 8
-  jumpHeight: 500
+  jumpHeight: 50
 --- !u!114 &1531865188
 MonoBehaviour:
   m_ObjectHideFlags: 0

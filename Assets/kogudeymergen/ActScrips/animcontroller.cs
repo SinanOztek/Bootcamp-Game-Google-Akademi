@@ -30,14 +30,23 @@ public class animcontroller : MonoBehaviour
             animator.SetBool("isRuning", false);
         }
 
-        if (Input.GetKey("shift"))
-        {
+        if (Input.GetKey(KeyCode.LeftShift))
+            {
             animator.SetBool("fasterRun", true);
         }
 
-        if (!Input.GetKey("shift"))
+        if (!Input.GetKey(KeyCode.LeftShift))
         {
             animator.SetBool("fasterRun", false);
+        }
+        if (Input.GetKey(KeyCode.Space))
+        {
+            animator.SetBool("isJump", true);
+        }
+
+        if (!Input.GetKey(KeyCode.Space)) 
+        {
+            animator.SetBool("isJump", false);
         }
     }
 }

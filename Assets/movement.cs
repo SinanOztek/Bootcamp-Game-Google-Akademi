@@ -27,7 +27,13 @@ public class movement : MonoBehaviour
         float z = Input.GetAxis("Vertical");
         Vector3 move = transform.right * x + transform.forward * z;
         controller.Move(move * speed* Time.deltaTime);
-        if(Input.GetButtonDown("Jump") && groundede) 
+
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            
+            controller.Move(move * speed *2* Time.deltaTime);
+        }
+        if (Input.GetButtonDown("Jump") && groundede) 
         {
             velocity.y = Mathf.Sqrt(jumpHeight * -2f * gravity);
         }
