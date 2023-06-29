@@ -10,13 +10,13 @@ public class movement : MonoBehaviour
     public float gravity = -9.81f;
     public Transform groundCheck;
     public float groundDistance = 0.4f;
-    public LayerMask groundMask;
+    public LayerMask Ground;
     bool groundede;
     public float jumpHeight = 4f;
     void Update()
 
     {
-        groundede = Physics.CheckSphere(groundCheck.position, groundDistance, groundMask);
+        groundede = Physics.CheckSphere(groundCheck.position, groundDistance, Ground);
 
         if (groundede && velocity.y < 0) 
         {
