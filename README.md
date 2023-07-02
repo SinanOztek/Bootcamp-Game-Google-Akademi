@@ -64,6 +64,29 @@ Alınan kararlar: Oyunun esinlenildiği destan senaryolaştırılmış ve levell
 
 ---
 
+# Sprint 2
+
+- **Sprint notları**: User Story'ler ve tasklar product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zaman ve verimlilik açısından daha iyi olacağı düşünüldüğünden, Discord ve Miro kullanılarak sesli ve görsel paylaşımlı toplantılar olarak yapılmasına karar verilmiştir. Bayram dolayısıyla toplantılar gerçekleşememiş, whatsapp üzerinden iletişim sağlanmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
+
+- **Sprint board update**: Sprint board screenshotları: 
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+
+
+- **Sprint Review**: 
+Alınan kararlar: Oyunda kullanılacak mekanikler yazılmıştır. Ana karakter ve tasarımı tamamlanmıştır. Ana karakter için hareket animasyonları oluşturulmuştur. Platform denemeleri yapılmıştır ve hala devam etmektedir. Sprint Review katılımcıları: Aleyna Sena Durmaz
+
+- **Sprint Retrospective:**
+   - Oyunun projenin başında karar verilen estetikten çok uzaklaşmamasına dikkat edilmelidir.
+
 ## Product Backlog URL
 
 [Unity Team 71 Miro Backlog Board](https://miro.com/app/board/uXjVM9w5jOM=/?share_link_id=59489808086)
