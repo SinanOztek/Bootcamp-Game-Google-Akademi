@@ -1,4 +1,4 @@
-# **Takım İsmi**
+![WhatsApp Image 2023-06-19 at 20 58 53](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/3f1852bd-a4a1-4e25-b3bb-9a561fba30e0)# **Takım İsmi**
 
 Unity 71
 
@@ -72,12 +72,17 @@ Alınan kararlar: Oyunun esinlenildiği destan senaryolaştırılmış ve levell
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zaman ve verimlilik açısından daha iyi olacağı düşünüldüğünden, Discord ve Miro kullanılarak sesli ve görsel paylaşımlı toplantılar olarak yapılmasına karar verilmiştir. Bayram dolayısıyla toplantılar gerçekleşememiş, whatsapp üzerinden iletişim sağlanmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
+- **Daily Scrum**: Daily Scrum toplantılarının zaman ve verimlilik açısından daha iyi olacağı düşünüldüğünden, Discord ve Miro kullanılarak sesli ve görsel paylaşımlı toplantılar olarak yapılmasına karar verilmiştir ancak bayram tatili dolayısıyla bu toplantılar gerçekleşememiş, bunun yerine whatsapp üzerinden iletişim sağlanmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
 
 - **Sprint board update**: Sprint board screenshotları: 
+- ![Ekran Alıntısı](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/41823d38-bca6-4d5f-b3ac-5b2710625101)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+-![WhatsApp Image 2023-06-19 at 20 58 53](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/46f693f3-d074-486b-9d83-f37a54747254)
+-![Ekran Görüntüsü (338)](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/a3ba9e63-333f-4757-9363-e68ca6a5ccef)
+-![Ekran Görüntüsü (355)](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/ddb928f3-acc6-4cd7-84b1-89ea2b0ce040)
+-
 
 
 
