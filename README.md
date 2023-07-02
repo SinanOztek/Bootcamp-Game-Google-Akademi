@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-06-19 at 20 58 53](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/3f1852bd-a4a1-4e25-b3bb-9a561fba30e0)# **Takım İsmi**
+**Takım İsmi**
 
 Unity 71
 
@@ -79,9 +79,10 @@ Alınan kararlar: Oyunun esinlenildiği destan senaryolaştırılmış ve levell
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
--![WhatsApp Image 2023-06-19 at 20 58 53](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/46f693f3-d074-486b-9d83-f37a54747254)
--![Ekran Görüntüsü (338)](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/a3ba9e63-333f-4757-9363-e68ca6a5ccef)
--![Ekran Görüntüsü (355)](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/ddb928f3-acc6-4cd7-84b1-89ea2b0ce040)
+  
+- ![WhatsApp Image 2023-06-19 at 20 58 53](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/46f693f3-d074-486b-9d83-f37a54747254)
+- ![Ekran Görüntüsü (338)](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/a3ba9e63-333f-4757-9363-e68ca6a5ccef)
+- ![Ekran Görüntüsü (355)](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/ddb928f3-acc6-4cd7-84b1-89ea2b0ce040)
 -
 
 
