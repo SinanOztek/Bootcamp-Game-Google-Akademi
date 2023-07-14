@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Unity 71 - Mysteva Games
+Mysteva Games
 
 # Ürün İle İlgili Bilgiler
 
