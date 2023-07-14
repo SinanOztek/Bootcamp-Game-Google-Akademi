@@ -13,7 +13,7 @@ Mysteva Games
 
 ## Ürün İsmi
 
---Ködügey Mergen--
+--Kögüdey Mergen--
  
 ## Ürün Açıklaması
 Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerasını anlatır.
