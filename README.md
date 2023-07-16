@@ -18,14 +18,11 @@ U71 - Mysteva Games
 ## Ürün Açıklaması
 Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerasını anlatır. Ormanın koynunda büyüyen Kögüdey Mergen büyüdüğünde Kara Kula Kağan tarafından esir alınan ailesini bulmak için yola çıkar.
 
-intro:
-BETİMLEMELER
 
-Er Bahadır Maaday Kara'ın yurdu Altay'da barış hüküm sürerdi.
+Ay altında yay gibi uzanan Aladağ'a ata diyen, güneş altında yay gibi yayılan kuzey ormanlarına ana diyen, Er Bahadır Maaday Kara'ın yurdu Altay'da barış hüküm sürerdi.
 Gün olur ki, yaşlı Bahadır Maaday Kara uzun bir uykuya dalar. Ve Maaday Kara'nın yaşlılığından faydalanmak isteyen Kara Kula Kağan memleketi istila etme ve yağmalama niyetiyle Altay'a doğru yola çıkar.
 
-Maaday Kara'nın eşi Altın Targa onu uzun uykusundan uyandırır. Maaday Kara dört bir yana dağılmış olan halkını ve hayvanlarını getirmek için yola çıkar.Evine döndüğünde karısının bir erkek çocuk doğurduğunu görür.Oğlunu yaşatmayacaklarını bilen Maaday Kara .çocuğunu ormana bırakır. Maaday Kara eşi ve halkı ile beraber Kara Kula Kağan'a esir düşer. Kögüdey Mergen büyüdüğünde ailesinin izini sürmek ve Kara Kula Kağan'ı bulmak için yola çıkar.
-
+Bunu haber alan Maaday Kara'nın eşi Altın Targa onu uzun uykusundan uyandırır. Maaday Kara olanı biteni öğrenince Bahadır kıyafetini giyer dört bir yana dağılmış olan halkını ve hayvanlarını getirmek için yola çıkar. Bir zaman geçince halkını ve malını toparlayıp evine döndüğünde karısının bir erkek çocuk doğurduğunu görür. Kara Kula Kağan'ın oğlunu yaşatmayacağını bilen Maaday Kara olağanüstü özellikler gösteren çocuğunu kucağına alır ve kayın ağaçları ile kaplı ulu bir dağa götürür. Ona "Eğer ölürsen kemiklerin burada kalsın, başına saç veren Bay Altay yardımcın olsun, baldırına et veren sık yapraklı kayın ağacı sana kut versin." diye dua eder ve böylece oğlunu ormana terk eder. Kendisi de eşi ve halkı ile beraber Kara Kula Kağan'a esir düşer. Kögüdey Mergen ormanda kayın ağacının özü ile beslenir. Dağa "baba" kayın ağacına ise "ana" der. Ve ormanın koynunda büyür. Büyüyünce de ailesinin izini sürmek ister ve Kara Kula Kağan'ı bulmak için yola çıkar.
 
 ## Ürün Özellikleri
 
