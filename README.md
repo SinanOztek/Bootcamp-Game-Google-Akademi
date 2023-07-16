@@ -123,5 +123,15 @@ Alınan kararlar: Oyunda kullanılacak mekanikler yazılmıştır. Ana karakter 
 ![Screeenshot-2](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/faa5dad3-0d37-44a4-9efe-1784aa8653c6)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  
-   ![screenshot-1](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/56518717-d70c-40f3-8cf6-ade0fc4d9d26)
+
+    ![Ekran Alıntısı1](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/7d20238d-98c9-46d1-a4e7-5938a2c3a7de)
+    ![Ekran Alıntısı2](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/f1d1b1c5-b551-4008-bea4-2d11c254e0f3)
+    ![Ekran Alıntısı3](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/65208d6a-6de1-4e2b-8735-cd52321182a7)
+    ![Ekran Alıntısı4](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/6cb4046c-68a7-4f09-845e-4c3f8c23c5b7)
+
+  - **Sprint Review**: 
+Alınan kararlar: Platformlar oluşturulmuş, engeller yerleşirilmitir. Ana karakter ve düşman karakterler geliştirilmiştir. Kahramanın kılıç ile savaşabilmesi için gereken kod ve tasarımlar oluşturulmuştur. Sprint Review katılımcıları: Aleyna Sena Durmaz
+
+- **Sprint Retrospective:**
+   - Takım üyelerinin gelecek projelerde iletişim açısından daha ulaşılabilir olması beklenmektedir.
+
