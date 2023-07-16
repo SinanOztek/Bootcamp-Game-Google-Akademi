@@ -16,8 +16,7 @@ U71 - Mysteva Games
 --Kögüdey Mergen--
  
 ## Ürün Açıklaması
-Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerasını anlatır. Ormanın koynunda büyüyen Kögüdey Mergen büyüdüğünde Kara Kula Kağan tarafından esir alınan ailesini bulmak için yola çıkar.
-
+Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerasını anlatır.
 ...
 
 Ay altında yay gibi uzanan Aladağ'a ata diyen, güneş altında yay gibi yayılan kuzey ormanlarına ana diyen, Er Bahadır Maaday Kara'ın yurdu Altay'da barış hüküm sürerdi.
@@ -109,3 +108,20 @@ Alınan kararlar: Oyunda kullanılacak mekanikler yazılmıştır. Ana karakter 
 
 ---
 
+# Sprint 3
+
+- **Sprint notları**: User Story'ler ve tasklar product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zaman ve verimlilik açısından daha iyi olacağı düşünüldüğünden, Discord ve Miro kullanılarak sesli ve görsel paylaşımlı toplantılar olarak yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.[Sprint 3 Daily Scrum Chats]()
+
+- **Sprint board update**: Sprint board screenshotları: 
+![Secreenshot-1](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/3c48b1ce-b965-4f36-a9a2-ffb8d659cc34)
+![Screeenshot-2](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/faa5dad3-0d37-44a4-9efe-1784aa8653c6)
+
+- **Ürün Durumu**: Ekran görüntüleri:
+  
+   ![screenshot-1](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/56518717-d70c-40f3-8cf6-ade0fc4d9d26)
