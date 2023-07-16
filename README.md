@@ -18,6 +18,7 @@ U71 - Mysteva Games
 ## Ürün Açıklaması
 Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerasını anlatır. Ormanın koynunda büyüyen Kögüdey Mergen büyüdüğünde Kara Kula Kağan tarafından esir alınan ailesini bulmak için yola çıkar.
 
+...
 
 Ay altında yay gibi uzanan Aladağ'a ata diyen, güneş altında yay gibi yayılan kuzey ormanlarına ana diyen, Er Bahadır Maaday Kara'ın yurdu Altay'da barış hüküm sürerdi.
 Gün olur ki, yaşlı Bahadır Maaday Kara uzun bir uykuya dalar. Ve Maaday Kara'nın yaşlılığından faydalanmak isteyen Kara Kula Kağan memleketi istila etme ve yağmalama niyetiyle Altay'a doğru yola çıkar.
