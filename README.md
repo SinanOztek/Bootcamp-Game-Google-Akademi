@@ -1,6 +1,6 @@
 # **Takım İsmi**
 
-Mysteva Games
+U71 - Mysteva Games
 
 # Ürün İle İlgili Bilgiler
 
@@ -16,11 +16,23 @@ Mysteva Games
 --Kögüdey Mergen--
  
 ## Ürün Açıklaması
-Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerasını anlatır.
+Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerasını anlatır. Ormanın koynunda büyüyen Kögüdey Mergen büyüdüğünde Kara Kula Kağan tarafından esir alınan ailesini bulmak için yola çıkar.
+
+intro:
+BETİMLEMELER
+
+Er Bahadır Maaday Kara'ın yurdu Altay'da barış hüküm sürerdi.
+Gün olur ki, yaşlı Bahadır Maaday Kara uzun bir uykuya dalar. Ve Maaday Kara'nın yaşlılığından faydalanmak isteyen Kara Kula Kağan memleketi istila etme ve yağmalama niyetiyle Altay'a doğru yola çıkar.
+
+Maaday Kara'nın eşi Altın Targa onu uzun uykusundan uyandırır. Maaday Kara dört bir yana dağılmış olan halkını ve hayvanlarını getirmek için yola çıkar.Evine döndüğünde karısının bir erkek çocuk doğurduğunu görür.Oğlunu yaşatmayacaklarını bilen Maaday Kara .çocuğunu ormana bırakır. Maaday Kara eşi ve halkı ile beraber Kara Kula Kağan'a esir düşer. Kögüdey Mergen büyüdüğünde ailesinin izini sürmek ve Kara Kula Kağan'ı bulmak için yola çıkar.
+
 
 ## Ürün Özellikleri
 
-- Platform türünde bir macera oyunudur.
+- 3D stilinde bir bilgisayar oyunudur.
+- Platform türünde tek kişilik bir macera oyunudur.
+- Oyun 3 farklı sahneden oluşur ve çeşitli engeller içerir.
+- Ana kahramanımız biçim değiştirebilmektedir ve kuşa dönüşebilir.
 
 ## Hedef Kitle
 
