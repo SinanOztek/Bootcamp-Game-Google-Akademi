@@ -17,6 +17,7 @@ U71 - Mysteva Games
  
 ## Ürün Açıklaması
 Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerasını anlatır.
+
 ...
 
 Ay altında yay gibi uzanan Aladağ'a ata diyen, güneş altında yay gibi yayılan kuzey ormanlarına ana diyen, Er Bahadır Maaday Kara'ın yurdu Altay'da barış hüküm sürerdi.
