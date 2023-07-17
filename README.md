@@ -117,7 +117,7 @@ Alınan kararlar: Oyunda kullanılacak mekanikler yazılmıştır. Ana karakter 
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zaman ve verimlilik açısından daha iyi olacağı düşünüldüğünden, Discord ve Miro kullanılarak sesli ve görsel paylaşımlı toplantılar olarak yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.[Sprint 3 Daily Scrum Chats](https://docs.google.com/document/d/1lGKK0zM8O20XSKUl4pd7souaB1VMDlLTPmQvmwWCHVM/edit?usp=sharing)
+- **Daily Scrum**: Daily Scrum toplantılarının zaman ve verimlilik açısından daha iyi olacağı düşünüldüğünden, Discord ve Miro kullanılarak sesli ve görsel paylaşımlı toplantılar olarak yapılmasına karar verilmiştir. Bunların dışında whatsapp üzerinden de iletişim sağlanmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.[Sprint 3 Daily Scrum Chats](https://docs.google.com/document/d/1lGKK0zM8O20XSKUl4pd7souaB1VMDlLTPmQvmwWCHVM/edit?usp=sharing)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Secreenshot-1](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/3c48b1ce-b965-4f36-a9a2-ffb8d659cc34)
