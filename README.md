@@ -136,5 +136,5 @@ Alınan kararlar: Oyunda kullanılacak mekanikler yazılmıştır. Ana karakter 
 Alınan kararlar: Platformlar oluşturulmuş, engeller yerleşirilmitir. Ana karakter ve düşman karakterler geliştirilmiştir. Kahramanın kılıç ile savaşabilmesi için gereken kod ve tasarımlar oluşturulmuştur. Sprint Review katılımcıları: Aleyna Sena Durmaz
 
 - **Sprint Retrospective:**
-   - Takım üyelerinin gelecek projelerde iletişim açısından daha ulaşılabilir olması beklenmektedir.
+   - Aktif olmayan takım üyelerinin gelecek projelerde iletişim açısından daha ulaşılabilir olması beklenmektedir.
 
