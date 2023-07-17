@@ -102,10 +102,6 @@ Alınan kararlar: Oyunda kullanılacak mekanikler yazılmıştır. Ana karakter 
 - **Sprint Retrospective:**
    - Oyunun projenin başında karar verilen estetikten çok uzaklaşmamasına dikkat edilmelidir.
 
-## Product Backlog URL
-
-[Unity Team 71 Miro Backlog Board](https://miro.com/app/board/uXjVM9w5jOM=/?share_link_id=59489808086)
-
 
 ---
 
