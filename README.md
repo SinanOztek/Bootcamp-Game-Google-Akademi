@@ -31,6 +31,7 @@ Bunu haber alan Maaday Kara'nın eşi Altın Targa onu uzun uykusundan uyandır�
 - Platform türünde tek kişilik bir macera oyunudur.
 - Oyun 3 farklı sahneden oluşur ve çeşitli engeller içerir.
 - Ana kahramanımız biçim değiştirebilmektedir ve kuşa dönüşebilir.
+- Platform üzerinde karşısına çıkan düşman karakterlerini kılıcı ile yaralayarak öldürür.
 
 ## Hedef Kitle
 
