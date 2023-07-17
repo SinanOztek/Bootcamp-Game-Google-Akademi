@@ -16,7 +16,7 @@ U71 - Mysteva Games
 --Kögüdey Mergen--
  
 ## Ürün Açıklaması
-Oyun, Maaday Kara Destanından esinlenerek Ködügey Mergen'in intikam macerasını anlatır.
+Oyun, Maaday Kara Destanından esinlenerek Kögüdey Mergen'in intikam macerasını anlatır.
 
 ...
 
@@ -125,12 +125,14 @@ Alınan kararlar: Oyunda kullanılacak mekanikler yazılmıştır. Ana karakter 
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
+    ![Ekran Alıntısı5](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/7183cf97-5324-4497-85c5-12ddc5043815)
     ![Ekran Alıntısı1](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/7d20238d-98c9-46d1-a4e7-5938a2c3a7de)
+    ![Ekran Alıntısı6](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/95781be3-7585-4d42-8492-7d84286de71d)
     ![Ekran Alıntısı2](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/f1d1b1c5-b551-4008-bea4-2d11c254e0f3)
     ![Ekran Alıntısı3](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/65208d6a-6de1-4e2b-8735-cd52321182a7)
     ![Ekran Alıntısı4](https://github.com/SinanOztek/Bootcamp-Game-Google-Akademi/assets/120099497/6cb4046c-68a7-4f09-845e-4c3f8c23c5b7)
 
-  - **Sprint Review**: 
+- **Sprint Review**: 
 Alınan kararlar: Platformlar oluşturulmuş, engeller yerleşirilmitir. Ana karakter ve düşman karakterler geliştirilmiştir. Kahramanın kılıç ile savaşabilmesi için gereken kod ve tasarımlar oluşturulmuştur. Sprint Review katılımcıları: Aleyna Sena Durmaz
 
 - **Sprint Retrospective:**
